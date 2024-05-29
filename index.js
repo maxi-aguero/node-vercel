@@ -1,4 +1,6 @@
 const express = require('express')
 const app = express();
-app.listen(process.env.PORT||4000);
-console.log(`Servidor app escuchando en puerto${port}`);
+const port = 3000;
+
+app.listen(port);
+console.log(`Servidor app escuchando en puerto ${port}`);
