@@ -3,4 +3,4 @@ const app = express();
 const port = 3000;
 
 app.listen(port);
-console.log(`Servidor app escuchando en puerto ${port}`);
+console.log(`Servidor app escuchando en puerto${port}`);
