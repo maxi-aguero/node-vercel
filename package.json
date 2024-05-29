@@ -1,0 +1,24 @@
+{
+  "name": "node-vercel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxi-aguero/node-vercel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxi-aguero/node-vercel/issues"
+  },
+  "homepage": "https://github.com/maxi-aguero/node-vercel#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "yarn": "^1.22.22"
+  }
+}
